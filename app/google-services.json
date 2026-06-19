@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224892602057",
+    "project_id": "handispace-fa080",
+    "storage_bucket": "handispace-fa080.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224892602057:android:dfa8a51de3c8389d6d6f18",
+        "android_client_info": {
+          "package_name": "com.example.handispace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224892602057-147432lu55u4aeit05fnqcnhfn0a9r7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handispace",
+            "certificate_hash": "d511827742acf136168ba6f1ff574fb4391ba71d"
+          }
+        },
+        {
+          "client_id": "224892602057-67b7kq34n9l573uc45443i3vfkjlrvko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnm-QGdIQP4zTm6WbKWDBHNzm8FvUh8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224892602057-67b7kq34n9l573uc45443i3vfkjlrvko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
